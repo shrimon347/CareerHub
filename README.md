@@ -1,4 +1,7 @@
 # React + Vite
+# Career Hub website 
+<P align="center"><img width="275" align="center" src="./Capture.PNG"/>
+</p>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
